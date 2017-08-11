@@ -1,0 +1,4 @@
+{
+  "test/test_docking_station.py::TestClass::()::test_two": true,
+  "test/test_docking_station.py::TestDockingStation::()::test_two": true
+}
